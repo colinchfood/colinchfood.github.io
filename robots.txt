@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://colinchfood.github.io/sitemap.xml
